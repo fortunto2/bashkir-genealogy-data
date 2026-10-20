@@ -33,7 +33,7 @@
 источниках той эпохи.
 
 → [github.com/fortunto2/orsk-uezd-ww1](https://github.com/fortunto2/orsk-uezd-ww1)
-· DOI [10.5281/zenodo.23495133](https://doi.org/10.5281/zenodo.23495133) (2.0)
+· DOI [10.5281/zenodo.23503840](https://doi.org/10.5281/zenodo.23503840) (2.1, волости нормализованы)
 
 ## Чем это отличается от поиска по базам
 
