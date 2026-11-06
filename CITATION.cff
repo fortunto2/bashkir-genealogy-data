@@ -21,6 +21,7 @@ keywords:
   - историческая демография
   - архивный указатель
 license: CC-BY-4.0
+doi: "10.5281/zenodo.22748057"
 repository-code: "https://github.com/fortunto2/bashkir-genealogy-data"
 date-released: 2026-11-05
-version: "1.0.0"
+version: "1.1.0"
